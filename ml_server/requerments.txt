@@ -1,0 +1,7 @@
+catboost
+scikit-learn
+plotly
+pandas
+graphviz
+matplotlib
+jupyterlab
